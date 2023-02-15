@@ -253,10 +253,10 @@ footer{
 .footer_title{
     margin-left: 83px;
     margin-bottom: 169px;
-    width: 200px;
+    width: 100px;
 }
 .ss{
-    margin-top: 20px;
+    margin-top: 30px;
     margin-bottom: 169px;
     width: 200px;
     color: white;
@@ -298,6 +298,7 @@ footer{
     margin-bottom: 100px;
 }
 .footer_div3 li a{
+    display: block;
     color: white;
     font-weight: 400;
     font-size: 16px;
@@ -306,8 +307,12 @@ footer{
     font-family: 'Poppins', sans-serif;
 
 }
+.footer_div3_a1{
+    margin-bottom: 108px;
+}
 .footer_div4{
     display: inline-block;
+    width: 200px;
 }
 .footer_contact_info li{
     color: white;
@@ -318,7 +323,28 @@ footer{
     font-family: 'Poppins', sans-serif;
 
 }
+.footer_div5{
+    display: inline-block;
+}
 
+.footer_form input{
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+    margin-left: 200px;
+}
+.footer_p{
+    width: 535px;
+    height: 36px;
+    margin-top: 15px;
+}
+.footer_div5 p{
+    color: #FFFFFF;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 18px;
+    margin-left: 200px;
+}
 /*about*/
 
 .about_title1{
